@@ -97,19 +97,3 @@ Este endpoint devuelve un resumen del mes con los totales de **ingresos**, **gas
 #### 🔒 Acceso a Recursos Protegidos
 
 ![Recursos protegidos](./src/main/resources/assets/avances/image-17.png)
-
-#### ⛔ Crear Usuario con Rol No Autorizado
-
-> Solo un administrador puede asignar roles diferentes de `USER`.
-![Error al crear usuario](./src/main/resources/assets/avances/image-18.png)
-
-#### ✅ Crear Usuario con Rol de ADMIN
-
-![Usuario ADMIN creado](./src/main/resources/assets/avances/image-19.png)
-
-#### 💵 Crear una transacción
-
-![Transacción creada](./src/main/resources/assets/avances/image-20.png)
-![Transacción creada](./src/main/resources/assets/avances/image-21.png)
-
----
